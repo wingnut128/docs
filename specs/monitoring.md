@@ -1,0 +1,1 @@
+# Host Monitoring Daemon (used to shoot or recover an instance)
