@@ -15,7 +15,7 @@ Links:
 
 
 `Example Config:`
-```json
+```javascript
 autopilot {
     cleanup_dead_servers = true
     last_contact_threshold = 200ms
